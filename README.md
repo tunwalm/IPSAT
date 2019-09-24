@@ -10,3 +10,5 @@ Contact info: Mohit Tunwal (mohit.tunwal@ucc.ie)
 Code developed on Mathematica 10.3
 
 Refer to User Manual provided for use of the Toolbox
+
+The IPSAT package is released under GPL3 license
